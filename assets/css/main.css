@@ -1,0 +1,37 @@
+@import url(https://fonts.googleapis.com/css?family=Nunito+Sans);
+@import url(https://fonts.googleapis.com/css?family=Rubik);
+
+html {
+    line-height: 1.15;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-size: 100%;
+    line-height: 1.5;
+    color: #555;
+    font-family: 'Nunito Sans', sans-serif
+}
+
+.footer {
+    background: #1488CC;
+    background: -webkit-linear-gradient(to right, #2B32B2, #1488CC);
+    background: linear-gradient(to right, #2B32B2, #1488CC);
+    padding: 10px 0;
+    margin-top: 100px;
+    text-align: center;
+    color: #fff
+}
+
+.footer .love {
+    color: red
+}
+
+.footer a {
+    text-decoration: none;
+    margin: 0;
+    color: #fff
+}
